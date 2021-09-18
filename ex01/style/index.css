@@ -1,0 +1,15 @@
+div.gallery {
+    margin: auto;
+    float: left;
+    width: 200px;
+    padding: 10px;
+  }
+  div.gallery img {
+    width: 100%;
+    height: auto;
+  }
+  div.desc {
+    font-size: 10px;
+    padding: 10px;
+    text-align: center;
+}
