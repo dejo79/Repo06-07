@@ -12,12 +12,12 @@ div.gallery img {
   }
 div.desc {
     font-size: 10px;
-    padding: 10px;
+    padding: 8px;
     text-align: justify;
 }
 div.title {
     font-size: 10px;
     color:lightblue;
     text-align: left;
-    padding:10px;
+    padding: 8px;
 }
