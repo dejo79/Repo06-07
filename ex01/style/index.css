@@ -1,15 +1,23 @@
+body { 
+  margin:0 auto; max-width: 700px; text-align: center;
+}
 div.gallery {
-    margin: auto;
     float: left;
     width: 200px;
     padding: 10px;
   }
-  div.gallery img {
+div.gallery img {
     width: 100%;
     height: auto;
   }
-  div.desc {
+div.desc {
     font-size: 10px;
     padding: 10px;
-    text-align: center;
+    text-align: justify;
+}
+div.title {
+    font-size: 10px;
+    color:lightblue;
+    text-align: left;
+    padding:10px;
 }
